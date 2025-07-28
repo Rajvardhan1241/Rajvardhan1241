@@ -51,6 +51,6 @@
 </div>
 
 <p align="center">
-    <img src="https://github.com/anmol8070/anmol8070/blob/main/gif3.gif" height="250" />
-   <img src="https://github.com/anmol8070/anmol8070/blob/main/gif4.gif" height="250" />
+    <img src="https://github.com/Rajvardhan1241/Rajvardhan1241/blob/124694fef37653e96edd8571fdf26b239a86c3e0/gif3.gif" height="250" />
+   <img src="https://github.com/Rajvardhan1241/Rajvardhan1241/blob/124694fef37653e96edd8571fdf26b239a86c3e0/gif4.gif" height="250" />
 </p>
