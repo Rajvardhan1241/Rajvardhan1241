@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
 
-<div align="center"> <img src="https://github.com/anmol8070/anmol8070/blob/main/_LinkedIn%20Banner.png" width="2000" height="280"> </div>
+<div align="center"> <img src=" " width="2000" height="280"> </div>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
 #### **Visitor Count**
-![Visitor Count](https://profile-counter.glitch.me/{anmol8070}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Rajvardhan1241}/count.svg)
 
 
 <div align="center">
@@ -16,20 +16,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="mailto:anmolnandavadekar@gmail.com" target="_blank">
+  <a href="mailto:rajvardhanhande05@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/anmol-nandavadekar-263b8b257/" target="_blank">
+  <a href="(https://www.linkedin.com/in/rajvardhanhande1241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://www.hackerrank.com/anmolnandavadekar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
-  </a>
-  <a href="https://www.instagram.com/__anm0l____" target="_blank">
+  <a href="https://www.instagram.com/rajvardhan3121" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://twitter.com/@anandavade3086" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
 </div>
 
