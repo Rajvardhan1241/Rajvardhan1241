@@ -1,105 +1,108 @@
-I want you to completely redesign and modernize my GitHub Profile README.md
-for a professional AI/ML Engineer profile.
-
-My name:
-Rajvardhan Hande
-
-Current professional positioning:
-M.Tech AI & ML | AI/ML Engineer | Machine Learning | Deep Learning |
-Generative AI | Computer Vision | PyTorch | CUDA & GPU Computing
-
-GitHub username:
-Rajvardhan1241
+I want to redesign my GitHub Profile README.md.
 
 IMPORTANT:
-Create the complete GitHub Profile README.md content.
-Do NOT give me an explanation first.
-Give me production-ready Markdown that I can directly paste into my
-GitHub profile repository README.md.
+Use the attached reference image as the PRIMARY DESIGN REFERENCE.
 
-DESIGN GOAL:
-Make the profile look like a high-end AI Engineer / GPU Computing /
-Research & Open Source portfolio.
+I want my new GitHub profile to have a VERY SIMILAR visual structure,
+layout, spacing, hierarchy and professional presentation as the reference
+image, but with completely original content and design elements.
 
-The design should feel:
-- Professional
-- Modern
-- Minimal but impressive
-- Technical
-- Research-oriented
-- AI-focused
-- NVIDIA-inspired in technology aesthetics, BUT DO NOT use NVIDIA's
-  logo, trademark, or pretend that I work for NVIDIA.
+Do NOT simply copy the exact design.
+Create a modern, premium and original version inspired by the reference.
 
 ==================================================
-1. HERO SECTION
+PROFILE IDENTITY
 ==================================================
 
-Create a strong opening section:
+Name:
+Rajvardhan Hande
 
-# 👋 Hi, I'm Rajvardhan Hande
+Username:
+Rajvardhan1241
 
-M.Tech AI & ML | AI/ML Engineer | GPU Computing & CUDA |
-Deep Learning | Generative AI | Computer Vision
+Professional title:
 
-Add a short professional statement:
-
-"Building intelligent systems, experimenting with accelerated AI,
-and exploring the intersection of machine learning, computer vision,
-generative AI and GPU computing."
-
-Add professional GitHub profile badges such as:
-- Profile views
-- Followers
-- GitHub stars
-
-Keep badges clean and not excessive.
+AI/ML Engineer | GPU Computing & CUDA | Deep Learning |
+Generative AI | Computer Vision | Research & Open Source
 
 ==================================================
-2. ABOUT ME
+MAIN LAYOUT
 ==================================================
 
-Create a concise but powerful About Me section.
+Create the README as a visually structured GitHub profile.
 
-Mention that I am:
-- M.Tech student in Artificial Intelligence & Machine Learning
-- Interested in AI/ML engineering
-- Interested in GPU-accelerated AI
-- Learning CUDA and parallel computing
-- Working with deep learning and computer vision
-- Exploring Generative AI and LLMs
-- Interested in AI healthcare and intelligent systems
-- Interested in research and open-source development
+The profile should feel like a professional personal portfolio rather
+than a normal plain README.
 
-Do not exaggerate my experience.
-Do not claim employment at any company unless explicitly provided.
+Structure it like this:
 
-==================================================
-3. CURRENT FOCUS
-==================================================
+1. ABOUT ME
+2. SOCIALS
+3. TECH STACK
+4. GITHUB STATS
+5. FEATURED PROJECTS
+6. ACHIEVEMENTS
+7. CERTIFICATIONS
+8. RESEARCH INTERESTS
+9. CONNECT WITH ME
 
-Create a visually attractive section:
-
-## 🚀 Currently Exploring
-
-Use cards/table/badges for:
-
-🧠 Deep Learning
-🤖 Generative AI & LLMs
-👁️ Computer Vision
-⚡ CUDA & GPU Computing
-🔬 AI Research
-🏥 AI for Healthcare
-🧩 Multimodal AI
-🤝 AI Agents / Agentic AI
+Use clean section headings with emojis/icons similar to the reference.
 
 ==================================================
-4. TECH STACK
+ABOUT ME
 ==================================================
 
-Create a clean categorized technology stack.
+Replace the old Web Developer introduction completely.
 
-Languages:
+Write:
+
+I am an M.Tech student specializing in Artificial Intelligence and
+Machine Learning, focused on building intelligent systems and exploring
+GPU-accelerated AI.
+
+My interests include Machine Learning, Deep Learning, Generative AI,
+Large Language Models, Computer Vision, Multimodal AI, CUDA and GPU
+Computing.
+
+I am currently strengthening my skills in AI engineering, CUDA,
+parallel computing, deep learning and research-driven AI applications.
+
+I am particularly interested in GPU-accelerated AI, computer vision,
+healthcare AI, digital twins, intelligent systems and open-source
+development.
+
+Do NOT describe me primarily as a Web Developer.
+
+==================================================
+SOCIALS
+==================================================
+
+Create attractive social buttons similar to the reference image.
+
+Include:
+
+GitHub
+LinkedIn
+Email
+
+LinkedIn:
+https://www.linkedin.com/in/rajvardhanhande1241/
+
+GitHub:
+https://github.com/Rajvardhan1241
+
+Use professional badges/buttons.
+
+==================================================
+TECH STACK
+==================================================
+
+Create a colorful but professional technology badge section like the
+reference image.
+
+Organize badges into categories.
+
+LANGUAGES:
 Python
 C++
 JavaScript
@@ -115,240 +118,211 @@ MediaPipe
 AI:
 Generative AI
 LLMs
-Multimodal AI
 Computer Vision
 Deep Learning
+Multimodal AI
 AI Agents
 
-GPU / Accelerated Computing:
+GPU:
 CUDA
+NVIDIA GPU
 GPU Computing
 Parallel Computing
-NVIDIA GPU
 
-Web / Backend:
+WEB:
 React
 Node.js
 Express
 HTML
 CSS
 
-Databases:
+DATABASE:
 MySQL
 PostgreSQL
 MongoDB
 
-Developer Tools:
+TOOLS:
 Git
 GitHub
 Docker
 Cloud
 
-Use professional shields.io badges where appropriate.
+Use shields.io badges.
 
-Avoid adding technologies that I have not listed.
+Avoid unnecessary technologies.
 
 ==================================================
-5. FEATURED PROJECTS
+GITHUB STATS
 ==================================================
 
-Create a premium Featured Projects section.
+Create a section visually similar to the GitHub Stats section in the
+reference image.
 
-Include these project categories:
+Include:
 
-1. AI Human Digital Twin
-Description:
-An AI-powered healthcare digital twin concept for personalized health
-monitoring, multimodal data integration, risk prediction and preventive
-healthcare.
+GitHub Statistics
+Top Languages
+Contribution Streak
+Contribution/activity graph
+
+Use reliable GitHub README-compatible services.
+
+Keep the cards aligned and visually clean.
+
+==================================================
+FEATURED PROJECTS
+==================================================
+
+Create project cards or clean project blocks.
+
+FEATURED PROJECT 1:
+
+AI Human Digital Twin
+
+AI-powered healthcare digital twin concept focused on multimodal health
+data, personalized monitoring, risk prediction and preventive healthcare.
 
 Technologies:
-Python, AI/ML, Deep Learning, Computer Vision, Time-Series ML,
+Python | AI/ML | Deep Learning | Computer Vision | Time-Series ML |
 Generative AI
 
-2. CUDA / GPU Computing Projects
-Description:
-GPU-accelerated computing experiments focused on CUDA kernels,
-parallel computing and CPU vs GPU performance analysis.
+FEATURED PROJECT 2:
+
+CUDA GPU Computing
+
+GPU-accelerated computing experiments involving CUDA kernels,
+parallel processing and CPU vs GPU performance analysis.
 
 Technologies:
-C++, CUDA, NVIDIA GPU, PyTorch
+C++ | CUDA | NVIDIA GPU | PyTorch
 
-3. Computer Vision Projects
-Description:
-AI-based computer vision experiments involving image/video analysis,
-object detection and intelligent visual systems.
+FEATURED PROJECT 3:
 
-4. Generative AI / LLM Projects
-Description:
-Experiments with LLMs, AI agents, local AI models and intelligent
+Computer Vision AI
+
+Computer vision experiments involving image/video understanding and
+intelligent visual systems.
+
+FEATURED PROJECT 4:
+
+Generative AI & LLM Applications
+
+Experiments with LLMs, local AI models, AI agents and intelligent
 applications.
 
 IMPORTANT:
-Do not invent GitHub repository links.
-Use placeholders such as:
-[Repository Link]
+Do not invent repository URLs.
+Use placeholders where necessary.
 
 ==================================================
-6. GITHUB STATISTICS
-==================================================
-
-Create a professional GitHub stats section.
-
-Include:
-- GitHub Stats
-- Top Languages
-- Contribution Streak
-
-Use reliable dynamic GitHub README services.
-
-Keep the layout clean and responsive.
-
-==================================================
-7. CONTRIBUTION / ACTIVITY
+ACHIEVEMENTS
 ==================================================
 
 Add:
 
-## 📈 GitHub Activity
+🏆 Flipkart GRiD 7.0 Semi-Finalist
 
-Include a contribution graph or activity visualization if supported.
+🏆 AlgoUniversity Tech Fellow
 
-Do not use broken or outdated services.
-
-==================================================
-8. ACHIEVEMENTS
-==================================================
-
-Create:
-
-## 🏆 Achievements
-
-Include only these verified achievements:
-
-- Flipkart GRiD 7.0 Semi-Finalist
-- AlgoUniversity Tech Fellow
-- GitHub Foundations Certified
-
-Do not invent additional awards.
+🏆 GitHub Foundations Certified
 
 ==================================================
-9. CERTIFICATIONS
-==================================================
-
-Create a Certifications section.
-
-Include:
-- AI for Full-Stack Development — SkillDrift
-- GitHub Foundations Certified
-
-Keep it concise.
-
-==================================================
-10. RESEARCH INTERESTS
-==================================================
-
-Create a section:
-
-## 🔬 Research Interests
-
-Include:
-
-- AI & Machine Learning
-- Digital Twins
-- AI Healthcare
-- Computer Vision
-- Multimodal AI
-- Generative AI
-- GPU-Accelerated Computing
-- CUDA
-- Robotics
-- Edge AI
-- Intelligent Systems
-
-==================================================
-11. OPEN SOURCE
-==================================================
-
-Create a section showing that I am interested in:
-
-"Building, learning, experimenting and contributing to open-source
-AI and developer tools."
-
-Make it professional and not exaggerated.
-
-==================================================
-12. CONNECT WITH ME
+CERTIFICATIONS
 ==================================================
 
 Add:
 
-LinkedIn:
-https://www.linkedin.com/in/rajvardhanhande1241/
+🎓 AI for Full-Stack Development — SkillDrift
 
-GitHub:
-https://github.com/Rajvardhan1241
-
-Use attractive social badges.
-
-Do not expose unnecessary personal information.
+🎓 GitHub Foundations Certified
 
 ==================================================
-13. FOOTER
+RESEARCH INTERESTS
 ==================================================
 
-Create a simple professional closing line:
+Create a visually attractive section containing:
 
-"⚡ Building today. Learning every day. Accelerating the future of AI."
-
-Then add a subtle AI/GPU themed footer.
-
-==================================================
-DESIGN REQUIREMENTS
-==================================================
-
-The final README should look like a premium AI Engineer portfolio.
-
-Use:
-- Markdown
-- HTML where useful
-- Tables
-- Shields.io badges
-- GitHub stats
-- Clean section separators
-- Minimal emojis
-- Professional typography through Markdown/HTML
-
-Avoid:
-- Excessive emojis
-- Huge walls of text
-- Fake achievements
-- Fake companies
-- Fake project links
-- Fake job titles
-- Claiming NVIDIA employment
-- Claiming technologies I haven't listed
-- Overly childish design
-
-COLOR / VISUAL DIRECTION:
-
-Dark futuristic technology aesthetic.
-
-Use visual concepts such as:
-AI neural networks
-GPU computation
+AI & Machine Learning
+GPU-Accelerated Computing
 CUDA
-data streams
-machine learning
-computer vision
-digital twin
-abstract scientific computing
+Computer Vision
+Generative AI
+Multimodal AI
+AI Healthcare
+Digital Twins
+Edge AI
+Robotics
+Intelligent Systems
 
-The visual identity should complement my LinkedIn profile.
+==================================================
+VISUAL DESIGN
+==================================================
 
-Make it look like the GitHub profile of someone preparing for a serious
-career in AI/ML engineering, GPU computing and research.
+This is VERY IMPORTANT.
 
-FINAL OUTPUT:
-Return ONLY the complete README.md code/content.
-Make it ready to copy-paste directly into my GitHub profile repository.
+The final README should visually resemble the reference image:
+
+- Dark GitHub-style background
+- Clean white/light typography
+- Large "About Me" heading
+- Horizontal separators
+- Profile identity prominently visible
+- Social buttons
+- Colorful technology badges
+- GitHub statistics cards
+- Clean spacing
+- Professional developer portfolio appearance
+- Modern AI/ML engineering aesthetic
+
+Add subtle futuristic AI/GPU visual elements where appropriate.
+
+Do NOT make it look like a gaming profile.
+
+Do NOT overcrowd it.
+
+Do NOT use excessive emojis.
+
+Do NOT use huge paragraphs.
+
+Do NOT use fake company logos.
+
+Do NOT claim that I work at NVIDIA.
+
+==================================================
+PROFILE HEADER
+==================================================
+
+At the top create:
+
+👋 Hi, I'm Rajvardhan Hande
+
+AI/ML Engineer | GPU Computing & CUDA |
+Deep Learning | Generative AI | Computer Vision
+
+Then a short professional tagline:
+
+"Building Intelligent Systems • Exploring Accelerated AI •
+Learning Through Research & Open Source"
+
+==================================================
+FINAL RESULT
+==================================================
+
+The final GitHub profile should look like a premium AI/ML Engineer's
+personal GitHub portfolio.
+
+It should be significantly more modern than my current profile.
+
+Most importantly:
+
+MATCH THE REFERENCE IMAGE'S:
+- overall structure
+- section hierarchy
+- badge-heavy Tech Stack
+- Socials section
+- GitHub Stats section
+- clean dark portfolio appearance
+
+But create an ORIGINAL and professional design.
+
+Return the COMPLETE README.md ready to copy and paste.
